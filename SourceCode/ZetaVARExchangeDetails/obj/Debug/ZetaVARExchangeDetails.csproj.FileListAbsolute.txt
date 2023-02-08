@@ -1,0 +1,20 @@
+D:\Acumatica ERP\FG222080012\Bin\ZetaVARExchangeDetails.dll
+D:\Acumatica ERP\FG222080012\Bin\ZetaVARExchangeDetails.pdb
+C:\Users\vidyakeerthik.HYDKSPL\source\repos\FG222080012\ZetaVARExchangeDetails\obj\Debug\ZetaVARExchangeDetails.csproj.CoreCompileInputs.cache
+C:\Users\vidyakeerthik.HYDKSPL\source\repos\FG222080012\ZetaVARExchangeDetails\obj\Debug\ZetaVARExchangeDetails.csproj.CopyComplete
+C:\Users\vidyakeerthik.HYDKSPL\source\repos\FG222080012\ZetaVARExchangeDetails\obj\Debug\ZetaVARExchangeDetails.dll
+C:\Users\vidyakeerthik.HYDKSPL\source\repos\FG222080012\ZetaVARExchangeDetails\obj\Debug\ZetaVARExchangeDetails.pdb
+C:\Program Files\Acumatica ERP\ACM21R2V21193\Bin\ZetaVARExchangeDetails.dll
+C:\Program Files\Acumatica ERP\ACM21R2V21193\Bin\ZetaVARExchangeDetails.pdb
+D:\References\RandDProjects\VARExchange\ZetaVARExchangeDetails\obj\Debug\ZetaVARExchangeDetails.csproj.CoreCompileInputs.cache
+D:\References\RandDProjects\VARExchange\ZetaVARExchangeDetails\obj\Debug\ZetaVARExchangeDetails.csproj.CopyComplete
+D:\References\RandDProjects\VARExchange\ZetaVARExchangeDetails\obj\Debug\ZetaVARExchangeDetails.dll
+D:\References\RandDProjects\VARExchange\ZetaVARExchangeDetails\obj\Debug\ZetaVARExchangeDetails.pdb
+D:\Acumatica ERP\AcmKCF222070013\Bin\ZetaVARExchangeDetails.dll
+D:\Acumatica ERP\AcmKCF222070013\Bin\ZetaVARExchangeDetails.pdb
+C:\Program Files\Acumatica ERP\HackathonDev\Bin\ZetaVARExchangeDetails.dll
+C:\Program Files\Acumatica ERP\HackathonDev\Bin\ZetaVARExchangeDetails.pdb
+C:\Projects\Hackathon\SourceCode\ZetaVARExchangeDetails\obj\Debug\ZetaVARExchangeDetails.csproj.CoreCompileInputs.cache
+C:\Projects\Hackathon\SourceCode\ZetaVARExchangeDetails\obj\Debug\ZetaVARExchangeDetails.csproj.CopyComplete
+C:\Projects\Hackathon\SourceCode\ZetaVARExchangeDetails\obj\Debug\ZetaVARExchangeDetails.dll
+C:\Projects\Hackathon\SourceCode\ZetaVARExchangeDetails\obj\Debug\ZetaVARExchangeDetails.pdb
